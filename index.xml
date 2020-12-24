@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasmine Dogu</title>
+    <link>https://jasminedogu.com/</link>
+    <description>Recent content on Jasmine Dogu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Final Presentation</title>
+      <link>https://jasminedogu.com/post/chapter-5/</link>
+      <pubDate>Mon, 21 Dec 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-5/</guid>
+      <description>This was the final project for my Practice of Data Science (DS 4001) class, and it focused on applying the machine learning algorithms learned in the course. The project aimed to accurately identify whether a patient would be diabetic or not using the Pima Americans Diabetes dataset found on Kaggle. Initially, background research on Type 1 and Type 2 Diabetes and an exploratory data analysis was concluded; from there, after some data cleaning, the correct machine learning algorithms were selected.</description>
+    </item>
+    
+    <item>
+      <title>Research Analyst at Miller Lab</title>
+      <link>https://jasminedogu.com/post/chapter-3/</link>
+      <pubDate>Tue, 08 Sep 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-3/</guid>
+      <description>I&amp;rsquo;m an undergraduate analyst in the Miller Lab in the Center for Public Health Genomics at the University of Virginia; at our computational biology lab, our focus is &amp;ldquo;integrating large-scale human genetics and genomics datasets with clinically relevant functional models.&amp;rdquo;
+The project I am in charge of identifies differentially expressed and co-regulated genes related to coronary artery disease; this is done by applying differential gene expression and network analyses in coronary artery tissue samples using the lab&amp;rsquo;s available RNA-seq datasets.</description>
+    </item>
+    
+    <item>
+      <title>Sports Analytics App Development</title>
+      <link>https://jasminedogu.com/post/chapter-4/</link>
+      <pubDate>Mon, 07 Sep 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-4/</guid>
+      <description>Through an Independent Study in the Statistics Department, my team and I are creating a mobile app for the Sports Department at the University of Virginia. The app asks sport dependent questions about both the physical and mental state of the players, and tracks performance related goals over time. The coaches can utilize this app as a way to gauge athlete performance and readiness for each match. Specifically, I&amp;rsquo;m in charge of the front-end development using React Native and Expo.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Midterm Project</title>
+      <link>https://jasminedogu.com/post/chapter-1/</link>
+      <pubDate>Wed, 05 Aug 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-1/</guid>
+      <description>Goal of this project was to practice using Rmarkdown documents and familiarize oneself (and class) with a new package available inside the R ecosystem. My group picked Plotly and created a html presentation giving an overview (history, dependencies, etc), its usage, similar packages, and a reflection. Presentation included using the World Happiness dataset to create both 2D and 3D visuals: scatterplots (with qualitative and quantitative colorscales), bar graphs (grouped, side by side, with slider), line plots (with mode and restyle button), and chloropleth map of the world (basic and with aggregations).</description>
+    </item>
+    
+    <item>
+      <title>Bus Location App Development</title>
+      <link>https://jasminedogu.com/post/chapter-2/</link>
+      <pubDate>Mon, 22 Apr 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-2/</guid>
+      <description>Through an internship with an organization called the UVA&amp;rsquo;s Development Hub, my group and I created an application that used native map components and bus tracking API to display bus locations in real time. App was composed of two main tabs: one with written information regarding the bus being tracked and one with a live map showing buses. Specifically, I was in charge of creating the live map showing each bus stop and their respective projected arrival time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jasminedogu.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasminedogu.com/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jasmine Dogu</title>
+    <link>https://jasminedogu.com/tags/</link>
+    <description>Recent content in Tags on Jasmine Dogu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://jasminedogu.com/tags/r/</link>
+      <pubDate>Mon, 21 Dec 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>https://jasminedogu.com/tags/react-native/</link>
+      <pubDate>Mon, 07 Sep 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/tags/react-native/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
