@@ -3,35 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jasminedogu.com/post/chapter-5/</loc>
-    <lastmod>2020-12-21T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jasminedogu.com/</loc>
-    <lastmod>2020-12-21T11:14:48-04:00</lastmod>
+    <lastmod>2021-01-15T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jasminedogu.com/post/</loc>
-    <lastmod>2020-12-21T11:14:48-04:00</lastmod>
+    <lastmod>2021-01-15T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jasminedogu.com/tags/r/</loc>
-    <lastmod>2020-12-21T11:14:48-04:00</lastmod>
+    <lastmod>2021-01-15T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/post/chapter-7/</loc>
+    <lastmod>2021-01-15T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jasminedogu.com/tags/</loc>
+    <lastmod>2021-01-15T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/post/chapter-6/</loc>
+    <lastmod>2021-01-08T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/tags/aws/</loc>
+    <lastmod>2021-01-01T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/post/chapter-8/</loc>
+    <lastmod>2021-01-01T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/tags/python/</loc>
+    <lastmod>2021-01-01T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/tags/sql/</loc>
+    <lastmod>2021-01-01T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasminedogu.com/post/chapter-5/</loc>
     <lastmod>2020-12-21T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

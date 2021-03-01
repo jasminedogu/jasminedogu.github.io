@@ -6,9 +6,28 @@
     <description>Recent content in R on Jasmine Dogu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jan 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Science Final Presentation</title>
+      <title>Sentiment Text Analysis</title>
+      <link>https://jasminedogu.com/post/chapter-7/</link>
+      <pubDate>Fri, 15 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-7/</guid>
+      <description>This project is a sentiment analysis using SPAM/HAM Text Classification data. It looks at whether there is a distinct separation between SPAM and HAM text messages and aims to predict whether a given text will be SPAM or HAM using the Support Vector Machine Algorithm. It utilizes different variations of the Synthetic Minority Oversampling Technique (SMOTE-SVM, SMOTE-KNN).
+This project was completed in 4 days during January Term for the UVA DS 4002 course.</description>
+    </item>
+    
+    <item>
+      <title>SVM and RF Model Comparison for Predicting H1N1 Vaccination</title>
+      <link>https://jasminedogu.com/post/chapter-6/</link>
+      <pubDate>Fri, 08 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-6/</guid>
+      <description>This project is a model comparison of Support Vector Machines (SVM) and Random Forest Classifiers to predict the likelihood of an individual receiving the H1N1 vaccine. The goal was to identify the model that would most accurately and efficiently classify each group. Although multiple metrics between the predictive models were compared, an emphasis was placed on the F1 score due to the imbalanced nature of the dataset. For the SVM models, both a polynomial and radial kernel were determined to be the most optimized, and these were further explored in the project.</description>
+    </item>
+    
+    <item>
+      <title>KNN and SVM Model Comparison for Predicting Diabetes</title>
       <link>https://jasminedogu.com/post/chapter-5/</link>
       <pubDate>Mon, 21 Dec 2020 11:14:48 -0400</pubDate>
       
@@ -27,7 +46,7 @@ The project I am in charge of identifies differentially expressed and co-regulat
     </item>
     
     <item>
-      <title>Data Science Midterm Project</title>
+      <title>Plotly Analysis</title>
       <link>https://jasminedogu.com/post/chapter-1/</link>
       <pubDate>Wed, 05 Aug 2020 11:13:32 -0400</pubDate>
       
