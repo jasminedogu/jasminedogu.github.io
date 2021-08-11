@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Jasmine Dogu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jan 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://jasminedogu.com/tags/python/</link>
+      <pubDate>Wed, 05 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Analysis</title>
+      <link>https://jasminedogu.com/tags/text-analysis/</link>
+      <pubDate>Wed, 05 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>R</title>
       <link>https://jasminedogu.com/tags/r/</link>
@@ -22,15 +40,6 @@
       <pubDate>Fri, 01 Jan 2021 11:14:48 -0400</pubDate>
       
       <guid>https://jasminedogu.com/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://jasminedogu.com/tags/python/</link>
-      <pubDate>Fri, 01 Jan 2021 11:14:48 -0400</pubDate>
-      
-      <guid>https://jasminedogu.com/tags/python/</guid>
       <description></description>
     </item>
     

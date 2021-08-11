@@ -6,7 +6,17 @@
     <description>Recent content on Jasmine Dogu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jan 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 May 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://jasminedogu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing the Novel &#39;The Great Gatsby&#39;</title>
+      <link>https://jasminedogu.com/post/chapter-9/</link>
+      <pubDate>Wed, 05 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://jasminedogu.com/post/chapter-9/</guid>
+      <description>This project was completed for DS 5001, Exploratory Text Analytics, a class within the University of Virginia&amp;rsquo;s Data Science Master&amp;rsquo;s Program during my third year at the University of Virginia as an undergraduate student.
+It used various Python packages and capabilites to delve deep into the novel &amp;ldquo;The Great Gatsby&amp;rdquo; to discover character actions, connections, and importance. While this was the main intent of the analysis, other characteristics of the novel were analyzed and explored along the way.</description>
+    </item>
+    
     <item>
       <title>Sentiment Text Analysis</title>
       <link>https://jasminedogu.com/post/chapter-7/</link>
